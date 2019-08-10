@@ -9,5 +9,6 @@ public class FirstGit {
         System.out.println("没有啊");
         System.out.println("所以好听吗");
         System.out.println("好");
+        System.out.println("稳了，兄弟");
     }
 }
